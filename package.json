@@ -2466,7 +2466,7 @@
         "tslint-microsoft-contrib": "^6.2.0",
         "typescript": "^3.8.3",
         "umd-compat-loader": "^2.1.2",
-        "vsce": "^1.74.0",
+        "vsce": "^2.10.0",
         "vscode": "^1.1.36",
         "vscode-azureextensiondev": "^0.3.1",
         "vscode-nls-dev": "^3.3.1",
